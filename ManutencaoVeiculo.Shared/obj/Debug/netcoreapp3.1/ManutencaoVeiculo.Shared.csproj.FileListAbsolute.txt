@@ -1,0 +1,13 @@
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.deps.json
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.runtimeconfig.json
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.runtimeconfig.dev.json
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.dll
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.pdb
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.AssemblyInfoInputs.cache
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.AssemblyInfo.cs
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.dll
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.pdb
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.genruntimeconfig.cache
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Shared\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.deps.json
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.runtimeconfig.json
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.runtimeconfig.dev.json
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.dll
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.pdb
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.dll
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\bin\Debug\netcoreapp3.1\ManutencaoVeiculo.Shared.pdb
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.csproj.AssemblyReference.cache
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.AssemblyInfoInputs.cache
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.AssemblyInfo.cs
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.csproj.CopyComplete
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.dll
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.pdb
+C:\Users\bruno_freitas\Documents\SENAI\ProjetoTCC\ManutencaoVeiculo\ManutencaoVeiculo.Domain\obj\Debug\netcoreapp3.1\ManutencaoVeiculo.Domain.genruntimeconfig.cache
