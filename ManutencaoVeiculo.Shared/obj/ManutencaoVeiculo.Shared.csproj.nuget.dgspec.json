@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj": {}
+    "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculoGit\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj": {
+    "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculoGit\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculoGit\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj",
         "projectName": "ManutencaoVeiculo.Shared",
-        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj",
+        "projectPath": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculoGit\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\ManutencaoVeiculo.Shared.csproj",
         "packagesPath": "C:\\Users\\bruno_freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\obj\\",
+        "outputPath": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculoGit\\ManutencaoVeiculo\\ManutencaoVeiculo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

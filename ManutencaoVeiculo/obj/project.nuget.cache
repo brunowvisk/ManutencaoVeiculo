@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xuvVmNSL+ZjAgd3eajykybsZxS+G2rIrlwv2qgi7Yf/aELSmSSOHE2ZWFPrMB2jU1K/KYWYjmMI51mPUUUdTww==",
+  "dgSpecHash": "qVtPS1qHSXN7k5GaAEweoFVkYMl7oZLCHdaYcyg8TiaU1e2knES4X5Ot+onNvW66i7OPmPi79xvbP2s21MWX+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculo\\ManutencaoVeiculo\\ManutencaoVeiculo.csproj",
+  "projectFilePath": "C:\\Users\\bruno_freitas\\Documents\\SENAI\\ProjetoTCC\\ManutencaoVeiculoGit\\ManutencaoVeiculo\\ManutencaoVeiculo\\ManutencaoVeiculo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno_freitas\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\bruno_freitas\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
